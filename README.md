@@ -40,7 +40,7 @@ This account has over 100 commits but this account was deleted due to some reaso
 <div align="center">
   
 ### Overall Stats
-![BIGBEASTISHANK's github stats]()
+![BIGBEASTISHANK's github stats](https://github-readme-stats.vercel.app/api?username=BIGBEASTISHANK&count_private=true&theme=great-gatsby)
   
 ### Most Used Languages
 ![Top Langs]()
