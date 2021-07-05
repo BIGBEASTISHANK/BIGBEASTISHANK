@@ -19,10 +19,6 @@ This account has over 100 commits but this account was deleted due to some reaso
 <a href="https://www.youtube.com/channel/UCw6lNThNWxwz1cz5rvR1Rdw">
   <img align="left" alt="BIGBEASTISHANK | YouTube" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg">
 </a>
-
-<a href="https://twitter.com/opishank">
-  <img align="left" alt="BIGBEASTISHANK | Twitter" width="21px" src="https://raw.githubusercontent.com/BruceMacGary/BruceMacGary/main/assets/twitter.svg">
-</a>
 <br />
 
 # Tools and Languages
