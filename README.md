@@ -10,14 +10,8 @@ This account has over 100 commits but this account was deleted due to some reaso
 - 💪 Mastering Python.
 # My Socials
 
-<a href="https://discord.gg/XfngbaaG2r">
-  <img align="left" alt="BIGBEASTISHANK | Discord" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg">
-</a>
 <a href="https://instagram.com/opishank">
   <img align="left" alt="BIGBEASTISHANK | Twitch" width="21px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png">
-</a>
-<a href="https://www.youtube.com/channel/UCw6lNThNWxwz1cz5rvR1Rdw">
-  <img align="left" alt="BIGBEASTISHANK | YouTube" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg">
 </a>
 <br />
 
