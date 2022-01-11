@@ -4,8 +4,8 @@ I am Ishank aka BIG_BEAST_ISHANK, a self-taught Developer, who loves programming
 
 This account has over 100 commits but this account was deleted due to some reason.
 
-- 🔭 Currently Working on [Python website](https://github.com/BIGBEASTISHANK/login_website).
-- 🌱 I’m currently learning Python.
+- 🔭 Currently Working on a [Next.js Website](https://github.com/bigbeastishank/bigbeastishank.com).
+- 🌱 I’m currently learning Next.js.
 - 💬 Ask me about anything [here](https://github.com/BIGBEASTISHANK/BIGBEASTISHANK/issues).
 - 💪 Mastering Python.
 # My Socials
