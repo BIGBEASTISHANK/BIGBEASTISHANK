@@ -29,7 +29,7 @@ This account has over 100 commits but this account was deleted due to some reaso
 
 <div align="center">
   
-### Overall Stats & Most Used Languages
-![BIGBEASTISHANK's github stats](https://github-readme-stats.vercel.app/api?username=BIGBEASTISHANK&count_private=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIGBEASTISHANK&theme=great-gatsby)
+### Most Used Languages & Overall Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIGBEASTISHANK&theme=great-gatsby) ![BIGBEASTISHANK's github stats](https://github-readme-stats.vercel.app/api?username=BIGBEASTISHANK&count_private=true&theme=great-gatsby)
 
 </div>
