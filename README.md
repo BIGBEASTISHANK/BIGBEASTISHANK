@@ -1,6 +1,6 @@
 # <img src="https://cdn.discordapp.com/emojis/776716850301763605.gif?v=1" width="40"> Hey There! 
 
-I am Ishank aka BIG_BEAST_ISHANK, a self-taught Developer, who loves programming in a creative manner.
+I am Ishank aka BIG BEAST ISHANK, a self-taught Developer, who loves programming in a creative manner.
 
 This account has over 100 commits but this account was deleted due to some reason.
 
@@ -29,9 +29,7 @@ This account has over 100 commits but this account was deleted due to some reaso
 
 <div align="center">
   
-### Overall Stats
-![BIGBEASTISHANK's github stats](https://github-readme-stats.vercel.app/api?username=BIGBEASTISHANK&count_private=true&theme=great-gatsby)
-  
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIGBEASTISHANK&theme=great-gatsby)
+### Overall Stats & Most Used Languages
+![BIGBEASTISHANK's github stats](https://github-readme-stats.vercel.app/api?username=BIGBEASTISHANK&count_private=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIGBEASTISHANK&theme=great-gatsby)
+
 </div>
