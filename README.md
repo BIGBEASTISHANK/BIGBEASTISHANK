@@ -28,6 +28,6 @@ I am Ishank aka BIG BEAST ISHANK, a self-taught Developer, who loves programming
 <div align="center">
   
 ### Most Used Languages & Overall Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIGBEASTISHANK&theme=great-gatsby) ![BIGBEASTISHANK's github stats](https://github-readme-stats.vercel.app/api?username=BIGBEASTISHANK&count_private=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIGBEASTISHANK&theme=great-gatsby&langs_count=10) ![BIGBEASTISHANK's github stats](https://github-readme-stats.vercel.app/api?username=BIGBEASTISHANK&count_private=true&theme=great-gatsby)
 
 </div>
