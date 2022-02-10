@@ -2,8 +2,6 @@
 
 I am Ishank aka BIG BEAST ISHANK, a self-taught Developer, who loves programming in a creative manner.
 
-This account has over 100 commits but this account was deleted due to some reason.
-
 - 🔭 Currently Working on a [Next.js Website](https://github.com/bigbeastishank/ishank.dev).
 - 🌱 I’m currently learning Next.js.
 - 💬 Ask me about anything [here](https://github.com/BIGBEASTISHANK/BIGBEASTISHANK/issues).
