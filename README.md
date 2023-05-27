@@ -2,7 +2,7 @@
 
 I am Ishank aka BIG BEAST ISHANK, a self-taught Developer, who loves programming in a creative manner.
 
-- 🔭 Currently Working on many other projects you can see on my [Website](https://bigbeastishank.com/w).
+- 🔭 Currently Working on many other projects you can see on my [Website](https://bigbeastishank.com/).
 - 🌱 I’m currently learning Game Development.
 - 💬 Ask me about anything [here](https://github.com/BIGBEASTISHANK/BIGBEASTISHANK/issues).
 - 💪 Mastering Programming.
