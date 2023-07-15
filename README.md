@@ -26,19 +26,19 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on [**My Games**](htps://bigbeastishank.com/projects)
+- 🔭 I’m currently working on **[My Games](htps://bigbeastishank.com/projects)**.
 
 - 🌱 I’m currently learning **How to make top quality game.**
 
 - ☁️ I've keen interest in linux and hacking. So,I'm learning **Linux core.**
 
-- 📝 You can see my blogs on [BIGBEASTISHANK/BLOGS](https://bigbeastishank.com./#blogs)
+- 📝 You can see my blogs on **[BIGBEASTISHANK/BLOGS](https://bigbeastishank.com./#blogs)**.
 
 - 💬 Ask me about **Game Development, Web Development, Hacking, Linux, Gaming**
 
-- 📫 Feel free to reach me out **antihack@bigbeastishank.com**
+- 📫 Feel free to **[Mail me](mailto:antihack@bigbeastishank.com)**
 
-- 🏠 You can join my discord server named [BIG BEAST](https://bigbeastishank.com/discord).
+- 🏠 You can join my discord server named **[BIG BEAST](https://bigbeastishank.com/discord)**.
 <!--Intro end-->
 
 
