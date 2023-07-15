@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in linux and hacking. So,I'm learning **Linux core.**
 
-- 📝 You can see my blogs on **[BIGBEASTISHANK/BLOGS](https://bigbeastishank.com./#blogs)**.
+- 📝 You can see my blogs on **[BIGBEASTISHANK/BLOGS](https://bigbeastishank.com/#blogs)**.
 
 - 💬 Ask me about **Game Development, Web Development, Hacking, Linux, Gaming**
 
