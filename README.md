@@ -95,7 +95,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=bigbeastishank&icon=3&color=6)](https://bigbeastishank.com/github){:target="_blank"}
+[![](https://visitcount.itsvg.in/api?id=bigbeastishank&icon=3&color=12)](https://bigbeastishank.com/github)
   
 </div>
 
