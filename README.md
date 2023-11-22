@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **[My Games](https://bigbeastishank.com/projects)**.
+- 🔭 I’m currently working on **[Many Projects](https://bigbeastishank.com/projects)**.
 
 - 🌱 I’m currently learning **How to make top quality game.**
 
