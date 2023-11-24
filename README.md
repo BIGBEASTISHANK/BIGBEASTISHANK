@@ -38,7 +38,7 @@
 
 - 📫 Feel free to **[Mail me](mailto:antihack@bigbeastishank.com)**
 
-- 🏠 You can join my discord server named **[BIG BEAST](https://bigbeastishank.com/discord)**.
+- 🏠 You can join my **[Discord Server](https://bigbeastishank.com/discord)**.
 <!--Intro end-->
 
 
