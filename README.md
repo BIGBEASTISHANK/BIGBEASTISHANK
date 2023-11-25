@@ -26,15 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **[Many Projects](https://bigbeastishank.com/projects)**.
-
-- 🌱 I’m currently learning **How to make top quality game.**
+- 🔭 I’m currently working on **[projects](https://bigbeastishank.com/projects)** which can be found on my website.
 
 - ☁️ I've keen interest in linux and hacking. So,I'm learning **Linux core.**
 
 - 📝 You can see my blogs on **[BIGBEASTISHANK/BLOGS](https://bigbeastishank.com/#blogs)**.
 
-- 💬 Ask me about **Game Development, Web Development, Hacking, Linux, Gaming**
+- 💬 Ask me about **Game Development, Web Development, Hacking, Linux, Gaming and general programming stuffs.**
 
 - 📫 Feel free to **[Mail me](mailto:antihack@bigbeastishank.com)**
 
