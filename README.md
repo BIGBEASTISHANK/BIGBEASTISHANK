@@ -76,19 +76,31 @@
 
 
 <!--h1 without bottom border-->
+<!-- Languages I Know -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Languages I know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,scss,js,react,bash,linux,vscode,unity,unreal,github,next,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,scss,js,react,next,bash&perline=14" />
   </a>
-  
 </p>
 
+<!-- Tools i use -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tools I use</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,unity,unreal,github,discord,blender,git,mysql,mongodb,replit&perline=14" />
+  </a>
+</p>
 
 <!--profile visit count-->
 <div align="center">
