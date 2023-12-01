@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **Game Development, Web Development, Hacking, Linux, Gaming and general programming stuffs.**
 
-- 📫 Feel free to **[Mail me](mailto:antihack@bigbeastishank.com)**
+- 📫 Feel free to **[Mail me](mailto:business@bigbeastishank.com)**
 
 - 🏠 You can join my **[Discord Server](https://bigbeastishank.com/discord)**.
 <!--Intro end-->
