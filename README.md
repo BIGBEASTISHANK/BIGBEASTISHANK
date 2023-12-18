@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **[projects](https://bigbeastishank.com/projects)** which can be found on my website.
+- 🔭 I’m currently learning **[C++](https://cplusplus.com/)** and **[Networking](https://www.google.com/search?q=computer+networking)** which can be found on my website.
 
 - ☁️ I've keen interest in linux and hacking. So,I'm learning **Linux core.**
 
