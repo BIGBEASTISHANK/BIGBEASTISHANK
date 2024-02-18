@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="/assets/banner.png" style="border-radius: 15px;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -12,8 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="/assets/banner.png" alt="banner" style="border-radius: 15px;">
 </div>
 
 
