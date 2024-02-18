@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://raw.githubusercontent.com/BIGBEASTISHANK/BIGBEASTISHANK/6c3ec2824a54785ed33cfc8ba4a5cd048c1023d3/assets/grid-snake.svg">
+<img src="https://raw.githubusercontent.com/BIGBEASTISHANK/BIGBEASTISHANK/main/assets/banner.jpg">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
