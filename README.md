@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://raw.githubusercontent.com/BIGBEASTISHANK/BIGBEASTISHANK/main/assets/banner.jpg">
+<img src="/assets/banner.png" style="border-radius: 15px;">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
