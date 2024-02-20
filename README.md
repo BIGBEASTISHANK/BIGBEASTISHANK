@@ -15,6 +15,9 @@
   <img src="/assets/banner.png" alt="banner" style="border-radius: 15px;">
 </div>
 
+<!--Note-->
+> [!Note]
+> You must be thinking that my reposotories are for kids and not professional at all. So listen, those repos were actually made a really long time ago. I am currently busy with many things, like exams and all. I do not have enough time to work on everything at once. I have sets of to-dos that I will start working on after my exam gets over. I will live stream all the changes on my YouTube channel, so hang on for a bit, and a complete renovation will be what you see.
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -28,8 +31,6 @@
 - 🔭 I’m currently learning **[C++](https://cplusplus.com/)** and **[Networking](https://www.google.com/search?q=computer+networking)**.
 
 - ☁️ I've keen interest in linux and hacking. So,I'm learning **Linux core.**
-
-- 📝 You can see my blogs on **[BIGBEASTISHANK/BLOGS](https://bigbeastishank.com/#blogs)**.
 
 - 💬 Ask me about **Game Development, Web Development, Hacking, Linux, Gaming and general programming stuffs.**
 
