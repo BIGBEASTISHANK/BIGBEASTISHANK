@@ -15,10 +15,6 @@
   <img src="/assets/banner.png" alt="banner" style="border-radius: 15px;">
 </div>
 
-<!--Note-->
-> [!Note]
-> You must be thinking that my reposotories are for kids and not professional at all. So listen, those repos were actually made a really long time ago. I am currently busy with many things, like exams and all. I do not have enough time to work on everything at once. I have sets of to-dos that I will start working on after my exam gets over. I will live stream all the changes on my YouTube channel, so hang on for a bit, and a complete renovation will be what you see.
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -28,7 +24,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently learning **[C++](https://cplusplus.com/)** and **[Networking](https://www.google.com/search?q=computer+networking)**.
+- 🔭 I’m currently learning **[C++](https://cplusplus.com/)** and **[Networking](https://search.brave.com/search?q=Computer+Networking)**.
 
 - ☁️ I've keen interest in linux and hacking. So,I'm learning **Linux core.**
 
@@ -55,7 +51,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=bigbeastishank&theme=dark&hide_border=false&no-bg=true&no-frame=true&hide=shaderlab,hlsl,glsl,procfile,mcFunction&langs_count=20"/>
+  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=bigbeastishank&theme=dark&hide_border=false&no-bg=true&no-frame=true&hide=shaderlab,hlsl,glsl,procfile,mcFunction,lua&langs_count=20"/>
   
   </td>
 </tr>
