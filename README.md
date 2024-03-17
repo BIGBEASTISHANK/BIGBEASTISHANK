@@ -28,6 +28,8 @@
 
 - ☁️ I've keen interest in linux and hacking. So,I'm learning **Linux core.**
 
+- 💖 You can sponsor me to keep me motivated [here](https://bigbeastishank.com/sponsor)
+
 - 💬 Ask me about **Game Development, Web Development, Hacking, Linux, Gaming and general programming stuffs.**
 
 - 📫 Feel free to **[Mail me](mailto:ishank@bigbeastishank.com)**
