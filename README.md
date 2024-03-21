@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="/assets/banner.png" alt="banner" style="border-radius: 15px;">
+  <img src="/assets/rnd_banner.png" alt="banner">
 </div>
 
 <!--h2 without bottom border-->
