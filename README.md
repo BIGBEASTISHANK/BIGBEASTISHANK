@@ -53,7 +53,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=bigbeastishank&theme=dark&hide_border=false&no-bg=true&no-frame=true&hide=shell,hlsl,shaderlab,glsl,qml,lua,scss&langs_count=20"/>
+  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=bigbeastishank&theme=dark&hide_border=false&no-bg=true&no-frame=true&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20"/>
   
   </td>
 </tr>
