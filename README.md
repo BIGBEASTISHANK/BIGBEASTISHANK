@@ -10,7 +10,7 @@
 </div>
 
 
-<!--- snake -->
+<!--- banner -->
 <div align="center">
   <img src="/assets/rnd_banner.png" alt="banner">
 </div>
