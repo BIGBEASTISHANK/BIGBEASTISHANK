@@ -80,8 +80,8 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,scss,js,react,next,bash,mysql&perline=14" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,dart,python,html,css,js,react,next,flutter,bash,mysql,mongo&perline=14" />
   </a>
 </p>
 
@@ -93,8 +93,8 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,unity,unreal,github,discord,blender,git,mongodb,replit&perline=14" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=linux,vscode,unity,unreal,github,discord,blender,git,replit&perline=14" />
   </a>
 </p>
 
