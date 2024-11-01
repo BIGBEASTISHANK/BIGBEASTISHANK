@@ -45,7 +45,12 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true" />
-  <br></br>
+  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=bigbeastishank&background=0D1117&sideLabels=FFFFFF&dates=FFFFFF&fire=EB5454&ring=2B6CC6&sideNums=2E7BE3&stroke=3468A6&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" /> 
 </td>
 
