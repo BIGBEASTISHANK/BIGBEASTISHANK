@@ -44,14 +44,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bigbeastishank&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bigbeastishank&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bigbeastishank&bg_color=0d1117&text_color=ffffff&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeastishank&theme=dark&hide_border=false&no-bg=true&no-frame=true&hide=shell,hlsl,shaderlab,glsl,qml,lua,makefile,roff&langs_count=20&size_weight=0&count_weight=1"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&hide_border=false&no-bg=true&no-frame=true&hide=shell,hlsl,shaderlab,glsl,qml,lua,makefile,roff&langs_count=20&size_weight=0&count_weight=1"/>
   
   </td>
 </tr>
@@ -61,7 +61,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=bigbeastishank&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=bigbeastishank&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
