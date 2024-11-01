@@ -46,12 +46,12 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bigbeastishank&bg_color=0d1117&text_color=ffffff&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=bigbeastishank&background=0D1117&sideLabels=FFFFFF&dates=FFFFFF&fire=EB5454&ring=2B6CC6&sideNums=2E7BE3&stroke=3468A6&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&hide_border=false&no-bg=true&no-frame=true&hide=shell,hlsl,shaderlab,glsl,qml,lua,makefile,roff&langs_count=20&size_weight=0&count_weight=1"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&hide_border=false&no-bg=true&no-frame=true&hide=shell,hlsl,shaderlab,glsl,qml,lua,makefile,roff,objective-c,kotlin,swift,cmake&langs_count=20&size_weight=0&count_weight=1"/>
   
   </td>
 </tr>
