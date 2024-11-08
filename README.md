@@ -24,7 +24,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently learning **[C++](https://cplusplus.com/)** and **[Networking](https://search.brave.com/search?q=Computer+Networking)**.
+- 🔭 I’m currently working on my all the pending projects: [Project A24](https://github.com/BIGBEASTISHANK/Project-A24), [Project E23](https://github.com/BIGBEASTISHANK/Project-E23), [D++](https://github.com/BIGBEASTISHANK/BBeast-Discord-Bot/tree/c++) & [Rescue Relay](https://github.com/BIGBEASTISHANK/RescueRelay).
 
 - 💖 You can sponsor me to keep me motivated [here](https://bigbeastishank.com/sponsor)
 
