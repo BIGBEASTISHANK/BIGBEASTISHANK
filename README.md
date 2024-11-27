@@ -99,7 +99,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=linux,vscode,unity,unreal,github,discord,blender,git,replit&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,unity,unreal,github,discord,blender,git&perline=14" />
   </a>
 </p>
 
