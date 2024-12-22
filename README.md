@@ -24,7 +24,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on my all the pending projects: [D++](https://github.com/BIGBEASTISHANK/BBeast-Discord-Bot/tree/c++), [Project E23](https://github.com/BIGBEASTISHANK/Project-E23), [Rescue Relay](https://github.com/BIGBEASTISHANK/RescueRelay) [Project A24](https://github.com/BIGBEASTISHANK/Project-A24).
+- 🔭 I’m currently working on my all the pending projects: [Project E23](https://github.com/BIGBEASTISHANK/Project-E23), [Rescue Relay](https://github.com/BIGBEASTISHANK/RescueRelay) [Project A24](https://github.com/BIGBEASTISHANK/Project-A24).
 
 - 💖 You can sponsor me to keep me motivated [here](https://bigbeastishank.com/sponsor)
 
