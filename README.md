@@ -26,7 +26,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on my all the pending projects: [Rescue Relay](https://github.com/BIGBEASTISHANK/RescueRelay).
 
-- 🤝 Projects on hold: [Project E23](https://github.com/BIGBEASTISHANK/Project-E23) [Project A24](https://github.com/BIGBEASTISHANK/Project-A24).
+- 🤝 Projects on hold: [Project E23](https://github.com/BIGBEASTISHANK/Project-E23), [Project A24](https://github.com/BIGBEASTISHANK/Project-A24).
 
 - 💖 You can sponsor me to keep me motivated [here](https://bigbeastishank.com/sponsor)
 
