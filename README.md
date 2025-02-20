@@ -88,7 +88,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,rust,dart,python,html,css,js,ts,bash,mysql,markdown,cmake&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,rust,dart,python,html,css,sass,js,ts,bash,mysql,markdown,cmake&perline=14" />
   </a>
 </p>
 
@@ -101,7 +101,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=linux,vscode,unity,unreal,github,discord,blender,git,react,next,flutter,mongo,excalidraw&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,unity,unreal,github,discord,blender,git,react,next,flutter,mongo,excalidraw,anytype,tailwind&perline=14" />
   </a>
 </p>
 
