@@ -88,7 +88,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,rust,dart,python,html,css,js,bash,mysql,markdown,cmake&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,rust,dart,python,html,css,js,ts,bash,mysql,markdown,cmake&perline=14" />
   </a>
 </p>
 
