@@ -105,7 +105,7 @@
   <a>
     <img src="https://skillicons.dev/icons?i=linux,vscode,unity,unreal,github,discord&perline=14" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=blender,gitreact,next,flutter,mongo,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=blender,git,react,next,flutter,mongo,tailwind&perline=14" />
   </a>
 </p>
 
