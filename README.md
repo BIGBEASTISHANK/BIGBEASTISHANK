@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)--->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -8,7 +7,6 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm BIG BEAST ISHANK</h1></summary>
   </ul>
 </div>
-
 
 <!--- banner --->
 <div align="center">
@@ -22,9 +20,9 @@
   </ul>
 </div>
 
-
 <!--Intro start--->
-- 🔭 I’m currently working on my all the pending projects: [Rescue Relay](https://github.com/BIGBEASTISHANK/RescueRelay).
+
+- 🔭 I’m currently working on: [Passforge](https://github.com/BIGBEASTISHANK/Passforge), [Rescue Relay](https://github.com/BIGBEASTISHANK/RescueRelay).
 
 - 🤝 Projects on hold: [Project E23](https://github.com/BIGBEASTISHANK/Project-E23), [Project A24](https://github.com/BIGBEASTISHANK/Project-A24).
 
@@ -36,8 +34,6 @@
 
 - 🏠 You can join my **[Discord Server](https://bigbeastishank.com/discord)**.
 <!--Intro end--->
-
-
 
 <!--- stats & Trophy (start) --->
 <p align="center">
@@ -52,6 +48,8 @@
   <br/>
   <br/>
   <br/>
+  <br/>
+  <br/>
 
   <!--- Streak stats --->
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=bigbeastishank&background=0D1117&sideLabels=FFFFFF&dates=FFFFFF&fire=EB5454&ring=2B6CC6&sideNums=2E7BE3&stroke=3468A6&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" /> 
@@ -59,7 +57,7 @@
 
 <!--- most used langs --->
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&hide_border=false&no-bg=true&no-frame=true&hide=shell,hlsl,shaderlab,glsl,qml,lua,roff,makefile,objective-c,kotlin,swift,cmake&langs_count=11&size_weight=0&count_weight=1"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&hide_border=false&no-bg=true&no-frame=true&hide=shell,hlsl,shaderlab,glsl,qml,lua,roff,makefile,objective-c,kotlin,swift,cmake&langs_count=12&size_weight=0&count_weight=1"/>
 </td>
 </tr>
 </table>
@@ -73,10 +71,9 @@
 </div>
 <!--- trophy (start) --->
 
-</p>        
+</p>
 
 <!--- stats (end) --->
-
 
 <!--h1 without bottom border--->
 <!-- Languages I Know --->
