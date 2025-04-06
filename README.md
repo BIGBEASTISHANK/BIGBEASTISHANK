@@ -22,7 +22,7 @@
 
 <!--Intro start--->
 
-- 🔭 I’m currently working on: [Passforge](https://github.com/BIGBEASTISHANK/Passforge), [Rescue Relay](https://github.com/BIGBEASTISHANK/RescueRelay).
+- 🔭 I’m currently working on: [Rescue Relay](https://github.com/BIGBEASTISHANK/RescueRelay).
 
 - 🤝 Projects on hold: [Project E23](https://github.com/BIGBEASTISHANK/Project-E23), [Project A24](https://github.com/BIGBEASTISHANK/Project-A24).
 
