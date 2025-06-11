@@ -16,11 +16,11 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building: [**Rescue Relay**](https://github.com/BIGBEASTISHANK/RescueRelay)  
+- 🔭 Currently building: [**Banditkode**](https://github.com/Banditkode)  
 - 🚧 On Hold: [Project E23](https://github.com/BIGBEASTISHANK/Project-E23), [Project A24](https://github.com/BIGBEASTISHANK/Project-A24)  
 - 💖 Sponsor me to support more FOSS development: [**Click Here**](https://bigbeastishank.com/sponsor)  
 - 💬 Ask me about: **Game Dev**, **Web Dev**, **Cybersecurity**, **Linux**, **Gaming**, or anything tech!  
-- 📫 Reach me: [**ishank@bigbeastishank.com**](mailto:ishank@bigbeastishank.com)  
+- 📫 Reach me: [**ishank@bigbeastishank.com**](mailto:ishank@bigbeastishank.com) 
 - 💬 Join my community on [**Discord**](https://bigbeastishank.com/discord)
 
 ---
@@ -29,12 +29,12 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,c,rust,dart,python,html,css,sass,js,ts,bash,mysql,markdown,cmake" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c,rust,python,html,css,sass,js,ts,bash,mysql,markdown,cmake" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,unity,unreal,github,discord,blender,git,react,next,flutter,mongo,tailwind" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,unity,unreal,github,discord,blender,git,react,next,mongo,tailwind" />
 </p>
 
 ---
