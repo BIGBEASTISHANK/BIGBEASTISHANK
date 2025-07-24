@@ -4,7 +4,7 @@
 <!-- Name and Welcome -->
 <div align="center">
   <h1>Hi 👋, I'm <strong>BIG BEAST ISHANK</strong></h1>
-  <h2>A Self-Taught Developer, Pentester & Open Source Enthusiast</h2>
+  <h2>A Self-Taught Developer, Pentester & Open Source lover</h2>
 </div>
 
 <!-- Banner -->
@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building: [**Banditkode**](https://github.com/Banditkode)  
+- 🔭 Currently building: [**Devsora**](https://github.com/devsoraglobal)  
 - 🚧 On Hold: [Project E23](https://github.com/BIGBEASTISHANK/Project-E23), [Project A24](https://github.com/BIGBEASTISHANK/Project-A24)  
 - 💖 Sponsor me to support more FOSS development: [**Click Here**](https://bigbeastishank.com/sponsor)  
 - 💬 Ask me about: **Game Dev**, **Web Dev**, **Cybersecurity**, **Linux**, **Gaming**, or anything tech!  
