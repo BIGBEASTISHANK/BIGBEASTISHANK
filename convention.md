@@ -14,19 +14,19 @@ This document outlines the naming conventions I use for my daily programming wor
 
 ## Code naming conventions
 
-## Variables
+### Variables
 
 - **camelCase**: Mutable variables
 - **SCREAMING_SNAKE_CASE**: Constant variables
 
-## Functions
+### Functions
 
 - **camelCase**: Functions
 
-## Classes / Types
+### Classes / Types
 
 - **PascalCase**: Classes, constructors, and types
 
-## Files
+### Files
 
 - **PascalCase** or **camelCase** (depending on project conventions)
