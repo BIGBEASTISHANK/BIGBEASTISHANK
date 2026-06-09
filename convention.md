@@ -17,11 +17,12 @@ This document outlines the naming conventions I use for my daily programming wor
 ### Variables
 
 - **camelCase**: Mutable variables
-- **SCREAMING_SNAKE_CASE**: Constant variables
+- **SCREAMING_SNAKE_CASE**: Constant/Immutable variables
 
 ### Functions
 
-- **camelCase**: Functions
+- **PascalCase**: Functions
+- **camalCase**: Inbuild function (only when needed) 
 
 ### Classes / Types
 
