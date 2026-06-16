@@ -7,7 +7,7 @@ This document outlines the naming conventions I use for my daily programming wor
 - **[FEAT]**: New feature
 - **[FIX]**: Minor fix
 - **[PATCH]**: Major fix
-- **[UPDATE]**: Update existing functionality with minimum to no behavior change
+- **[UPDATE]**: Update existing functionality 
 - **[REFACTOR]**: Code improvement (no behavior change)
 - **[DOCS]**: Documentation updates
 - **[CRITICAL]**: High-severity or urgent (often security-related)
