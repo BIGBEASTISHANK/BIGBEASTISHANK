@@ -11,6 +11,7 @@ This document outlines the naming conventions I use for my daily programming wor
 - **[REFACTOR]**: Code improvement (no behavior change)
 - **[DOCS]**: Documentation updates
 - **[CRITICAL]**: High-severity or urgent (often security-related)
+- **[OTHER]**: For anything not mentioned, or dosen't fit in any category 
 
 ## Code naming conventions
 
