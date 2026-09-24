@@ -45,12 +45,12 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true" />
+        <img src="https://github-stats-extended.vercel.app/api?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true" />
         <br><br>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=bigbeastishank&background=0D1117&sideLabels=FFFFFF&dates=FFFFFF&fire=EB5454&ring=2B6CC6&sideNums=2E7BE3&stroke=3468A6&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&hide_border=false&no-bg=true&no-frame=true&langs_count=7&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,qml,mdx" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bigbeastishank&bg_color=0d1117&text_color=ffffff&hide_border=false&no-bg=true&no-frame=true&langs_count=7&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl,qml,mdx" />
       </td>
     </tr>
   </table>
@@ -62,7 +62,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bigbeastishank&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=bigbeastishank&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" />
 </div>
 
 <!-- Horizontal Gradient Divider -->
