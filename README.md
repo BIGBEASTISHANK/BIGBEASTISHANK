@@ -27,37 +27,95 @@
 
 ## ⭐ My Star Projects
 
-### 🔐 ORGVault
+<table>
+  <tr>
+    <th align="left">
+      <h3>🔐 ORGVault</h3>
+      <p>
+        A file synchronization system built for organizations, with
+        <strong>security and privacy</strong> as the main priorities.
+      </p>
+      <p>
+        ORGVault uses an advanced encryption pipeline and custom algorithms,
+        along with a custom Layer 2 transaction system for communication
+        between clients.
+      </p>
+      <blockquote>
+        <strong>Note:</strong> ORGVault is built entirely by me. No AI was used
+        in the development of this project.
+      </blockquote>
+      <blockquote>
+        <strong>Note:</strong> This project is not open source. Public
+        disclosure is currently not permitted as the technology is under
+        active research and may be subject to future patent protection.
+      </blockquote>
+      <p>
+        <strong>Focus:</strong>
+        <code>Security</code>
+        <code>Privacy</code>
+        <code>Encryption</code>
+        <code>File Sync</code>
+        <code>Custom Protocols</code>
+      </p>
+    </th>
+  </tr>
 
-A file synchronization system built for organizations, with security and privacy as the main priorities.
+  <tr>
+    <th align="left">
+      <h3>🌐 <a href="https://bigbeastishank.com">BIGBEASTISHANK.COM</a></h3>
+      <p>
+        My personal portfolio and blog, built as an
+        <strong>open-source full-stack project</strong>.
+      </p>
+      <p>
+        The website is also a way for me to showcase my experience with
+        full-stack development, backend systems, and API security. I have
+        focused on following proper API security practices and keeping the
+        project open source.
+      </p>
+      <p>
+        I also use the website to write about things I'm working on and
+        topics I find interesting.
+      </p>
+      <p>
+        <strong>Focus:</strong>
+        <code>Full Stack</code>
+        <code>Web Development</code>
+        <code>API Security</code>
+        <code>Open Source</code>
+        <code>Blogging</code>
+      </p>
+    </th>
+  </tr>
 
-ORGVault uses an advanced encryption pipeline and custom algorithms, along with a custom Layer 2 transaction system for communication between clients.
-
-> **Note:** ORGVault is built entirely by me. No AI was used in the development of this project.
-
-> **Note:** This project is not open source. Public disclosure is currently not permitted as the technology is unde active research and may be subject to future patent protection.
-
-**Focus:** `Security` `Privacy` `Encryption` `File Sync` `Custom Protocols`
-
-### 🌐 [BIGBEASTISHANK.COM](https://bigbeastishank.com)
-
-My personal portfolio and blog, built as an open-source full-stack project.
-
-The website is also a way for me to showcase my experience with full-stack development, backend systems, and API security. I have focused on following proper API security practices and keeping the project open source.
-
-I also use the website to write about things I'm working on and topics I find interesting.
-
-**Focus:** `Full Stack` `Web Development` `API Security` `Open Source` `Blogging`
-
-### ⚡ [BixSync](https://github.com/BIGBEASTISHANK/BixSync)  
-
-A lightweight file synchronization system designed for fast transfers over a local IPv4 network.
-
-BixSync focuses on speed and collaboration rather than the advanced security features of ORGVault. Each connected client can have its own synchronized folder, and changes made by one client are immediately reflected across the other connected clients.
-
-The idea is to make sharing and working on files across multiple machines on the same network simple and fast.
-
-**Focus:** `IPv4` `LAN` `File Sync` `Real-Time Sync` `Collaboration`
+  <tr>
+    <th align="left">
+      <h3>⚡ <a href="https://github.com/BIGBEASTISHANK/BixSync">BixSync</a></h3>
+      <p>
+        A lightweight file synchronization system designed for
+        <strong>fast transfers over a local IPv4 network</strong>.
+      </p>
+      <p>
+        BixSync focuses on speed and collaboration rather than the advanced
+        security features of ORGVault. Each connected client can have its own
+        synchronized folder, and changes made by one client are immediately
+        reflected across the other connected clients.
+      </p>
+      <p>
+        The idea is to make sharing and working on files across multiple
+        machines on the same network simple and fast.
+      </p>
+      <p>
+        <strong>Focus:</strong>
+        <code>IPv4</code>
+        <code>LAN</code>
+        <code>File Sync</code>
+        <code>Real-Time Sync</code>
+        <code>Collaboration</code>
+      </p>
+    </th>
+  </tr>
+</table>
 
 ---
 
